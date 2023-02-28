@@ -1,0 +1,15 @@
+{
+  "name": "exercicio1-eduardo",
+  "version": "1.0.0",
+  "description": "Exercício para práticas de criação e personalização de package.json.",
+  "main": "index.js",
+  "scripts": {
+    "boasVindas": "node index.js",
+    "par-ou-impar": "node par-ou-impar.js",
+    "jakenpo": "node jakenpo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
